@@ -1,0 +1,83 @@
+
+*{
+	font-family: 'Georama', sans-serif;
+}
+
+.black{
+	background-color: black;
+}
+
+.footer{
+	background-color: #1e1919;
+}
+
+p{
+
+ font-size: 30px;
+text-align: justify;
+}
+
+.modelo{
+	text-align: center;
+}
+.card-text{
+	text-align: center;
+}
+
+.white{
+	background-color: white;
+}
+
+.nav-item{
+	color: black;
+}
+
+.principal{
+	padding-top: 10px;
+	margin-top: 53px;
+}
+
+
+.white{
+	border:solid 10px white;
+	border-radius: 10px;
+	overflow: hidden;
+	transition: all ease-out 0.2s;
+
+
+}
+
+.white:hover{
+
+transform:scale(1.05);
+}
+
+#.outfits{
+	background-color: #b7afaf;
+}
+a{
+	color:white !important;
+}
+
+a:hover{
+	color: #d3b5d6 !important;
+}
+
+@media only screen and (max-width:768px){
+	#div{
+		width: 90% !important;
+	}
+	p{
+		font-size:15px;
+	}
+	.principal{
+		margin-top: 80px;
+	}
+	
+}
+@media only screen and (max-width:600px){
+.principal{
+		margin-top: 80px;
+	}
+
+}
